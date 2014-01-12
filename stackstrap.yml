@@ -1,17 +1,10 @@
 #
-# StackStrap meta-data
+# Fail fail-fail
 #
 
 ---
-template_name: {{ name }}
-template_description:
-  Add your description here.
-
-cleanup:
-  - README.rst
-
-file_templates:
-  - Vagrantfile
-
-path_templates:
-  - PROJECT-README: README
+fail: fail: {f{a{i{l
+f
+a
+i -
+l -
