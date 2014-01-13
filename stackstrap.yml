@@ -12,6 +12,7 @@ cleanup:
 
 file_templates:
   - Vagrantfile
+  - salt/pillar/stackstrap.sls
 
 path_templates:
   - PROJECT-README: README
