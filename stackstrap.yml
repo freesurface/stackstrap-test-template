@@ -3,7 +3,7 @@
 #
 
 ---
-template_name: {{ name }}
+template_name: '{{ name }}'
 template_description:
   Add your description here.
 
