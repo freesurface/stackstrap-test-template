@@ -9,6 +9,7 @@ template_description:
 
 cleanup:
   - README.rst
+  - stackstrap.yml
 
 file_templates:
   - Vagrantfile
